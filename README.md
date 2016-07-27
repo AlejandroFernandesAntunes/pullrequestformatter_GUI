@@ -1,2 +1,2 @@
 # pullrequestformatter_GUI
-GUI for pull request formatter
+GUI for pull request formatter made with Electron.
